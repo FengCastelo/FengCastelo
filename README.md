@@ -19,7 +19,12 @@
 
 <br />
 - 👩‍💻 Full-Stack Developer
+  
 - 🎓 Studying Computer Science (Bachelor's degree)
+
 - 🌐 Passionate about Web/Software development
-- 💡 Dedicated to solve new problems/challenges
+
+-  💡 Dedicated to solve new problems/challenges
+
+  
 <img align= left alt="Github Stats" height="200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengcastelo&layout=compact&custom_title=Technologies&langs_count=9"  />
