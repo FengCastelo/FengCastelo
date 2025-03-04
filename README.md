@@ -18,6 +18,7 @@
 <br />
 
 <br />
+
 - 👩‍💻 Full-Stack Developer
   
 - 🎓 Studying Computer Science (Bachelor's degree)
