@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-castelo-68052429b//)](https://www.linkedin.com/in/ian-castelo-68052429b/)
 [![Gmail Badge](https://img.shields.io/badge/-fengcastelo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fengcastelo.dev@gmail.com)](mailto:fengcastelo.dev@gmail.com)
 
-**`Desenvolvedor FullStack`**
-**`UI/UX Desing`**
+**`Desenvolvedor Back-End`**
+**`Analista de dados python`**
 
 ## My name is Feng Castelo!
 
