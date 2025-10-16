@@ -21,7 +21,7 @@
 
 <br />
 
-- 👩‍💻 Full-Stack Developer
+- 👩‍💻 Java Back-End Developer
   
 - 🎓 Studying Computer Science (Bachelor's degree)
 
