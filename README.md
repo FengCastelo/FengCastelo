@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-fengcastelo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fengcastelo.dev@gmail.com)](mailto:fengcastelo.dev@gmail.com)
 
 **`Desenvolvedor Back-End`**
-**`Analista de dados python`**
 
 ## My name is Feng Castelo!
 
